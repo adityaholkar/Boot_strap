@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "springapi",
+			"path": "../../../../../../../springapi"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
